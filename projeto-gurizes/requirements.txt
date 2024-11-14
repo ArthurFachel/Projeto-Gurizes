@@ -1,0 +1,12 @@
+chromadb
+gradio
+llama-index
+llama-index-llms-huggingface
+llama-index-llms-deepinfra
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index-vector-stores-chroma
+torch==2.2.2
+transformers
+xformers
+bitsandbytes
